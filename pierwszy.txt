@@ -1,3 +1,5 @@
 To jest pierwszy
 
 A teraz drugi
+
+Linia do pierwszego brancha
